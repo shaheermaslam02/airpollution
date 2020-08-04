@@ -1,4 +1,4 @@
-Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Value
+Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5_AQI_Value
 1/1/20,AQS,31,AirNow,51
 1/2/20,AQS,25,AirNow,67
 1/3/20,AQS,20,AirNow,60
@@ -9,10 +9,10 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 1/8/20,AQS,33,AirNow,48
 1/9/20,AQS,28,AQS,31
 1/10/20,AQS,31,AQS,41
-1/11/20,AirNow,34,AirNow,42
+1/11/20,AQS,34,AirNow,42
 1/12/20,AQS,35,AirNow,51
 1/13/20,AQS,17,AirNow,52
-1/14/20,AirNow,14,AirNow,62
+1/14/20,AQS,14,AirNow,62
 1/15/20,AQS,28,AirNow,74
 1/16/20,AQS,33,AQS,56
 1/17/20,AirNow,35,AirNow,26
@@ -44,7 +44,7 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 2/12/20,AQS,35,AirNow,57
 2/13/20,AQS,33,AirNow,51
 2/14/20,AQS,35,AirNow,28
-2/15/20,AirNow,33,AirNow,30
+2/15/20,AQS,33,AirNow,30
 2/16/20,AQS,34,AirNow,52
 2/17/20,AQS,36,AirNow,69
 2/18/20,AQS,42,AirNow,63
@@ -55,9 +55,9 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 2/23/20,AQS,44,AirNow,63
 2/24/20,AirNow,43,AirNow,71
 2/25/20,AirNow,31,AirNow,57
-2/26/20,AirNow,36,AirNow,51
+2/26/20,AQS,36,AirNow,51
 2/27/20,AirNow,46,AQS,38
-2/28/20,AirNow,36,AQS,53
+2/28/20,AQS,35,AQS,53
 2/29/20,AQS,38,AirNow,53
 3/1/20,AQS,44,AirNow,48
 3/2/20,AQS,46,AirNow,58
@@ -80,7 +80,7 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 3/19/20,AQS,31,AirNow,60
 3/20/20,AQS,38,AirNow,57
 3/21/20,AQS,40,AQS,36
-3/22/20,AirNow,39,AirNow,39
+3/22/20,AQS,39,AirNow,39
 3/23/20,AQS,33,AirNow,28
 3/24/20,AQS,38,AirNow,30
 3/25/20,AQS,35,AirNow,45
@@ -89,7 +89,7 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 3/28/20,AQS,38,AirNow,54
 3/29/20,AQS,35,AirNow,56
 3/30/20,AQS,35,AirNow,53
-3/31/20,AirNow,36,AQS,26
+3/31/20,AQS,36,AQS,26
 4/1/20,AirNow,42,AirNow,37
 4/2/20,AirNow,44,AirNow,22
 4/3/20,AirNow,40,AirNow,15
@@ -102,7 +102,7 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 4/10/20,AQS,39,AirNow,39
 4/11/20,AirNow,44,AirNow,52
 4/12/20,AirNow,48,AirNow,60
-4/13/20,AirNow,44,AirNow,31
+4/13/20,AQS,44,AirNow,31
 4/14/20,AirNow,43,AirNow,39
 4/15/20,AQS,45,AirNow,46
 4/16/20,AQS,43,AirNow,48
@@ -115,9 +115,9 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 4/23/20,AQS,41,AirNow,39
 4/24/20,AirNow,32,AirNow,24
 4/25/20,AirNow,47,AirNow,35
-4/26/20,AirNow,38,AirNow,29
+4/26/20,AQS,38,AirNow,29
 4/27/20,AirNow,37,AirNow,17
-4/28/20,AirNow,44,AirNow,30
+4/28/20,AQS,44,AirNow,30
 4/29/20,AQS,44,AirNow,35
 4/30/20,AirNow,44,AirNow,47
 5/1/20,AirNow,39,AirNow,43
@@ -196,3 +196,19 @@ Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5 _AQI_Va
 7/13/20,AirNow,44,AirNow,33
 7/14/20,AirNow,43,AirNow,28
 7/15/20,AirNow,49,AirNow,33
+7/16/20,AirNow,31,AirNow,24
+7/17/20,AirNow,58,AirNow,45
+7/18/20,AirNow,64,AirNow,52
+7/19/20,AirNow,97,AirNow,58
+7/20/20,AirNow,87,AirNow,56
+7/21/20,AirNow,129,AirNow,43
+7/22/20,AirNow,119,AirNow,50
+7/23/20,AirNow,71,AirNow,44
+7/24/20,AirNow,38,AirNow,26
+7/25/20,AirNow,84,AirNow,34
+7/26/20,AirNow,74,AirNow,52
+7/27/20,AirNow,74,AirNow,59
+7/28/20,AirNow,51,AirNow,48
+7/29/20,AirNow,84,AirNow,44
+7/30/20,AirNow,115,AirNow,54
+7/31/20,AirNow,49,AirNow,35
