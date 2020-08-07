@@ -1,4 +1,4 @@
-Date,Source Ozone AQI Value,Ozone_AQI Value,Source PM2.5 AQI Value,PM2.5_AQI_Value
+Date,Source Ozone AQI Value,Ozone_AQI_Value,Source PM2.5 AQI Value,PM2.5_AQI_Value
 1/1/19,AQS,16,AQS,54
 1/2/19,AirNow,19,AQS,50
 1/3/19,AQS,19,AQS,52
