@@ -4,8 +4,7 @@ A GitHub repository aimed at distinguishing the primary causes of air pollution 
 
 ## Requirements
 
-* Python 3 
-Libraries:
+Python 3
 * Pandas
 * Numpy
 * Matplotlib
