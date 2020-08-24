@@ -28,4 +28,10 @@ The visualization notebook holds all of the visualizations across every metropol
 
 The data analysis notebook follows a similar structure to the presentation and paper, outlining the project, the findings, as well as the general story and line of reasoning.
 
-We conduct basic data handling using our Python libraries to clean up data and visualize it properly. A special thank you to Jon Stelman, the LSI Team, as well as the whole of Renaissance Learning for creating the opportunity for this study and supporting it every step of the way.
+## Data
+
+We conduct basic data handling using our Python libraries to clean up data and visualize it properly. We incorporate time series line plots and bar charts as well as correlation matrices to display our data and develop findings based on the trends we see. Our data has limitations, where comparisons between data may not be the most consistent. 
+
+## Acknowledgement
+
+A special thank you to Jon Stelman, the LSI Team, as well as the whole of Renaissance Learning for creating the opportunity for this study and supporting it every step of the way.
