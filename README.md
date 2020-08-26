@@ -10,6 +10,8 @@ Python 3
 * Matplotlib
 * Seaborn
 * Glob
+* Geopandas
+* Datetime
 
 ## About The Study
 
