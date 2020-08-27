@@ -21,13 +21,13 @@ This research project is conducted under Renaissance Learning. Made possible by 
 
 The notebooks are separated into four notebooks: an overview air pollution notebook, a processing notebook, a visualization notebook, as well as an analysis notebook.
 
-The overview air pollution notebook olds some very simple graphs of raw data and short exploration.
+The overview air pollution notebook holds some very simple graphs of raw data and short exploration.
 
-The processing notebook holds all of the functions we use to graph and visualize. We also read all of the data within this notebook, and simply run it within the other notebooks so the functions and data transfer.
+The processing notebook holds all of the functions we use to graph and visualize. We also read all of the data from our datasets, and simply run it within the other notebooks so the functions and data transfer and we can use them for analysis.
 
-The visualization notebook holds all of the visualizations across every metropolitan statistical area organized by region. It displays air quality in comparison to the numerous input variables, being a location for all of the graphs we need to research.
+The visualization notebook holds all of the visualizations across every metropolitan statistical area organized by region. It displays air quality in comparison to the numerous input variables, being a location for all of the graphs we need to understand.
 
-The data analysis notebook follows a similar structure to the presentation and paper, outlining the project, the findings, as well as the general story and line of reasoning.
+The data analysis notebook follows a similar structure to the presentation and paper, where it outlines the project, the findings, as well as the general story and line of reasoning.
 
 ## Data
 
